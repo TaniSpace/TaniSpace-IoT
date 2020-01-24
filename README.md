@@ -3,6 +3,10 @@
 # TaniSpace IoT
 It is a platform to assist in the management of plant culture by the hydroponic method. Our solution interconnects between Arduino, Web Base Application (RESTful API), and Chat Bot (Discord, Line, Messenger and Telegram). Use Artificial Intelligence in Chat Bot to provide a better user experience with the help of Dialogflow.com. Focus on making it easy for you to manage your plants wherever and whenever easily, but remember there must be an internet connection.
 
+### Donate
+- If this project very help you and u want support us , you can give us a cup of coffee :)
+- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1EKgiVqAvMnenGwuV8yvkvzfgMPUx18VBH)
+
 ## Workflow (In Bahasa)
 ![TaniSpace Workflow](images/Workflow.png)
 
@@ -42,3 +46,7 @@ It is a platform to assist in the management of plant culture by the hydroponic 
 
 ## Have Problem?
 Join our Telegram discussion group **https://t.me/TaniSpace**
+
+## Disclaimer
+
+***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this sourcecode.***
